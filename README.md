@@ -70,7 +70,7 @@ DATAGEN revolutionizes data analysis through its innovative multi-agent architec
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/starpig1129/DATAGEN.git
+git clone https://github.com/MildMystic777/DATAGEN.git
 ```
 2. Create and activate a Conda virtual environment:
 ```bash
@@ -183,7 +183,7 @@ You can customize the system behavior by modifying the agent creation and workfl
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Strategic Partnership
-[![CTL GROUP](https://img.shields.io/badge/DATAGEN-Strategic_Partner-blue)](https://datagen.digital/)
+[![CTL GROUP](https://img.shields.io/badge/DATAGEN-Strategic_Partner-blue)](https://datagen.site/)
 
 We are excited to announce our upcoming strategic partnership with CTL GROUP, an innovative AI-Powered Crypto Intelligence Platform currently in development. This collaboration will bring together advanced AI research capabilities with crypto market intelligence:
 
@@ -206,7 +206,6 @@ We are excited to announce our upcoming strategic partnership with CTL GROUP, an
   - Innovative passive income opportunities
   - Exclusive platform privileges
 
-The platform is currently under development. Follow our progress on [GitHub](https://github.com/ctlgroupdev).
 
 ## License
 
@@ -216,7 +215,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [![Star History Chart](https://api.star-history.com/svg?repos=starpig1129/DATAGEN&type=Date)](https://star-history.com/#starpig1129/DATAGEN&Date)
 
-## Other Projects
+## Other Projects with others teams that I worked with
 Here are some of my other notable projects:
 ### ShareLMAPI
 ShareLMAPI is a local language model sharing API that uses FastAPI to provide interfaces, allowing different programs or device to share the same local model, thereby reducing resource consumption. It supports streaming generation and various model configuration methods.
