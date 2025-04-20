@@ -1,13 +1,11 @@
-# DATAGEN (Previously AI-Data-Analysis-MultiAgent)
-
+# DATAGEN 
 ![DATAGEN Banner](DATAGEN.jpg "DATAGEN Banner")
 
 ## About DATAGEN
 DATAGEN is a powerful brand name that represents our vision of leveraging artificial intelligence technology for data generation and analysis. The name combines "DATA" and "GEN"(generation), perfectly embodying the core functionality of this project - automated data analysis and research through a multi-agent system.
 
-Visit us at [DATAGEN Digital](https://datagen.digital/)(website under development) to learn more about our vision and services.
+Visit us at [DATAGEN](https://datagen.site/) to learn more about our vision and services.
 
-![System Architecture](Architecture.png)
 ## Overview
 
 DATAGEN is an advanced AI-powered data analysis and research platform that utilizes multiple specialized agents to streamline tasks such as data analysis, visualization, and report generation. Our platform leverages cutting-edge technologies including LangChain, OpenAI's GPT models, and LangGraph to handle complex research processes, integrating diverse AI architectures for optimal performance.
